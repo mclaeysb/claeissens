@@ -4,10 +4,10 @@ This repository contains static level 0 [IIIF Image API](https://iiif.io/api/ima
 
 Links to view and annotate the map:
 
-- [IIIF Presentation Manifest](https://mclaeysb.github.io/claeissens/manifest.json)
-- [Open in Allmaps Editor](https://editor.allmaps.org/#/collection?url=https://mclaeysb.github.io/claeissens/manifest.json)
-- [Open in Allmaps Viewer](https://viewer.allmaps.org/?url=https://mclaeysb.github.io/claeissens/manifest.json)
-- [Open in Theseus Viewer](https://theseus-viewer.netlify.app/?iiif-content=https://mclaeysb.github.io/claeissens/manifest.json)
+- [IIIF Presentation Manifest](https://manuelclaeysbouuaert.be/claeissens/manifest.json)
+- [Open in Allmaps Editor](https://editor.allmaps.org/#/collection?url=https://manuelclaeysbouuaert.be/claeissens/manifest.json)
+- [Open in Allmaps Viewer](https://viewer.allmaps.org/?url=https://manuelclaeysbouuaert.be/claeissens/manifest.json)
+- [Open in Theseus Viewer](https://theseus-viewer.netlify.app/?iiif-content=https://manuelclaeysbouuaert.be/claeissens/manifest.json)
 
 Technical information about the map:
 

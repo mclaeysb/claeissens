@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://mclaeysb.github.io/claeissens/manifest.json",
+    "id": "https://manuelclaeysbouuaert.be/claeissens/manifest.json",
     "type": "Manifest",
     "label": {
       "en": [
@@ -9,22 +9,22 @@
     },
     "items": [
       {
-        "id": "https://mclaeysb.github.io/claeissens/manifest.json/canvas/0",
+        "id": "https://manuelclaeysbouuaert.be/claeissens/manifest.json/canvas/0",
         "type": "Canvas",
         "height": 31871,
         "width": 52724,
         "items": [
           {
-            "id": "https://mclaeysb.github.io/claeissens/manifest.json/canvas/0/annotation-page",
+            "id": "https://manuelclaeysbouuaert.be/claeissens/manifest.json/canvas/0/annotation-page",
             "type": "AnnotationPage",
             "items": [
               {
-                "id": "https://mclaeysb.github.io/claeissens/img",
+                "id": "https://manuelclaeysbouuaert.be/claeissens/img",
                 "type": "Annotation",
                 "motivation": "painting",
-                "target": "https://mclaeysb.github.io/claeissens/manifest.json/canvas/0",
+                "target": "https://manuelclaeysbouuaert.be/claeissens/manifest.json/canvas/0",
                 "body": {
-                  "id": "https://mclaeysb.github.io/claeissens/img/full/full/0/default.jpg",
+                  "id": "https://manuelclaeysbouuaert.be/claeissens/img/full/full/0/default.jpg",
                   "type": "Image",
                   "format": "image/jpeg",
                   "height": 31871,
@@ -32,7 +32,7 @@
                   "service": [
                     {
                       "@context": "http://iiif.io/api/image/3/context.json",
-                      "@id": "https://mclaeysb.github.io/claeissens/img",
+                      "@id": "https://manuelclaeysbouuaert.be/claeissens/img",
                       "profile": [
                         "http://iiif.io/api/image/3/level0.json",
                         {

@@ -1,0 +1,62 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://mclaeysb.github.io/claeissens/manifest.json",
+    "type": "Manifest",
+    "label": {
+      "en": [
+        "Map of the Liberty of Bruges"
+      ]
+    },
+    "items": [
+      {
+        "id": "https://mclaeysb.github.io/claeissens/manifest.json/canvas/0",
+        "type": "Canvas",
+        "height": 31871,
+        "width": 52724,
+        "items": [
+          {
+            "id": "https://mclaeysb.github.io/claeissens/manifest.json/canvas/0/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://mclaeysb.github.io/claeissens/img",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://mclaeysb.github.io/claeissens/manifest.json/canvas/0",
+                "body": {
+                  "id": "https://mclaeysb.github.io/claeissens/img/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 31871,
+                  "width": 52724,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/3/context.json",
+                      "@id": "https://mclaeysb.github.io/claeissens/img",
+                      "profile": [
+                        "http://iiif.io/api/image/3/level0.json",
+                        {
+                          "formats": ["jpg"],
+                          "qualities": ["default"]
+                        }
+                      ],
+                      "protocol": "http://iiif.io/api/image",
+                      "tiles": [
+                        {
+                          "scaleFactors": [1, 2, 4, 8, 16, 32],
+                          "width": 1024,
+                          "height": 1024
+                        }
+                      ],
+                      "width": 52724,
+                      "height": 31871
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

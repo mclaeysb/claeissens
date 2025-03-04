@@ -16,3 +16,5 @@ The original digitalisation resulted in a picture of 158174 x 95614 pixels. This
 ---
 
 The tiles were made with [Sharp](https://sharp.pixelplumbing.com/) using [these scripts](https://github.com/sammeltassen/iiif-tiler). The IIIF Presentation Manifest was made using [this Notebook](https://observablehq.com/d/46eb57ecfeded102).
+
+A custom 'starting' Georeference Annotation page was made with [this Notebook](https://observablehq.com/d/b7ae55c7ab37313b).

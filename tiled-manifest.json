@@ -1,0 +1,4796 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+  "type": "Manifest",
+  "label": { "en": ["Map of the Liberty of Bruges"] },
+  "items": [
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/1",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 1"], "nl": ["Tegel 1"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/1/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/1/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/1",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/2",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 2"], "nl": ["Tegel 2"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/2/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/2/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/2",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/3",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 3"], "nl": ["Tegel 3"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/3/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/3/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/3",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/4",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 4"], "nl": ["Tegel 4"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/4/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/4/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/4",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/5",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 5"], "nl": ["Tegel 5"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/5/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/5/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/5",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/6",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 6"], "nl": ["Tegel 6"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/6/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/6/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/6",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/7",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 7"], "nl": ["Tegel 7"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/7/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/7/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/7",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/8",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 8"], "nl": ["Tegel 8"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/8/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/8/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/8",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/9",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 9"], "nl": ["Tegel 9"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/9/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/9/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/9",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/10",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 10"], "nl": ["Tegel 10"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/10/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/10/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/10",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/11",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 11"], "nl": ["Tegel 11"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/11/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/11/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/11",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/12",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 12"], "nl": ["Tegel 12"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/12/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/12/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/12",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/13",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 13"], "nl": ["Tegel 13"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/13/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/13/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/13",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/14",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 14"], "nl": ["Tegel 14"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/14/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/14/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/14",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/15",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 15"], "nl": ["Tegel 15"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/15/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/15/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/15",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/16",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 16"], "nl": ["Tegel 16"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/16/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/16/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/16",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/17",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 17"], "nl": ["Tegel 17"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/17/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/17/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/17",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/18",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 18"], "nl": ["Tegel 18"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/18/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/18/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/18",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/19",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 19"], "nl": ["Tegel 19"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/19/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/19/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/19",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/20",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 20"], "nl": ["Tegel 20"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/20/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/20/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/20",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/21",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 21"], "nl": ["Tegel 21"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/21/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/21/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/21",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/22",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 22"], "nl": ["Tegel 22"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/22/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/22/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/22",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/23",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 23"], "nl": ["Tegel 23"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/23/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/23/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/23",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/24",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 24"], "nl": ["Tegel 24"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/24/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/24/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/24",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/25",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 25"], "nl": ["Tegel 25"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/25/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/25/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/25",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/26",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 26"], "nl": ["Tegel 26"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/26/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/26/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/26",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/27",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 27"], "nl": ["Tegel 27"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/27/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/27/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/27",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/28",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 28"], "nl": ["Tegel 28"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/28/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/28/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/28",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/29",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 29"], "nl": ["Tegel 29"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/29/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/29/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/29",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/30",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 30"], "nl": ["Tegel 30"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/30/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/30/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/30",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/31",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 31"], "nl": ["Tegel 31"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/31/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/31/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/31",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/32",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 32"], "nl": ["Tegel 32"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/32/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/32/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/32",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/33",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 33"], "nl": ["Tegel 33"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/33/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/33/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/33",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/34",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 34"], "nl": ["Tegel 34"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/34/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/34/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/34",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/35",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 35"], "nl": ["Tegel 35"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/35/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/35/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/35",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/36",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 36"], "nl": ["Tegel 36"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/36/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/36/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/36",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/37",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 37"], "nl": ["Tegel 37"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/37/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/37/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/37",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/38",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 38"], "nl": ["Tegel 38"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/38/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/38/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/38",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/39",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 39"], "nl": ["Tegel 39"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/39/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/39/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/39",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/40",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 40"], "nl": ["Tegel 40"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/40/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/40/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/40",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/41",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 41"], "nl": ["Tegel 41"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/41/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/41/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/41",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/42",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 42"], "nl": ["Tegel 42"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/42/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/42/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/42",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/43",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 43"], "nl": ["Tegel 43"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/43/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/43/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/43",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/44",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 44"], "nl": ["Tegel 44"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/44/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/44/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/44",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/45",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 45"], "nl": ["Tegel 45"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/45/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/45/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/45",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/46",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 46"], "nl": ["Tegel 46"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/46/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/46/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/46",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/47",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 47"], "nl": ["Tegel 47"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/47/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/47/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/47",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/48",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 48"], "nl": ["Tegel 48"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/48/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/48/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/48",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/49",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 49"], "nl": ["Tegel 49"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/49/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/49/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/49",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/50",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 50"], "nl": ["Tegel 50"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/50/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/50/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/50",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/51",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 51"], "nl": ["Tegel 51"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/51/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/51/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/51",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/52",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 52"], "nl": ["Tegel 52"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/52/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/52/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/52",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/53",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 53"], "nl": ["Tegel 53"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/53/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/53/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/53",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/54",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 54"], "nl": ["Tegel 54"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/54/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/54/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/54",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/55",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 55"], "nl": ["Tegel 55"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/55/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/55/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/55",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/56",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 56"], "nl": ["Tegel 56"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/56/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/56/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/56",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/57",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 57"], "nl": ["Tegel 57"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/57/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/57/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/57",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/58",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 58"], "nl": ["Tegel 58"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/58/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/58/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/58",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/59",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 59"], "nl": ["Tegel 59"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/59/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/59/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/59",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/60",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 60"], "nl": ["Tegel 60"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/60/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/60/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/60",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/61",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 61"], "nl": ["Tegel 61"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/61/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/61/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/61",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/62",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 62"], "nl": ["Tegel 62"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/62/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/62/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/62",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/63",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 63"], "nl": ["Tegel 63"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/63/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/63/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/63",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/64",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 64"], "nl": ["Tegel 64"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/64/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/64/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/64",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/65",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 65"], "nl": ["Tegel 65"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/65/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/65/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/65",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/66",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 66"], "nl": ["Tegel 66"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/66/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/66/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/66",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/67",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 67"], "nl": ["Tegel 67"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/67/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/67/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/67",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/68",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 68"], "nl": ["Tegel 68"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/68/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/68/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/68",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/69",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 69"], "nl": ["Tegel 69"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/69/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/69/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/69",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/70",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 70"], "nl": ["Tegel 70"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/70/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/70/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/70",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/71",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 71"], "nl": ["Tegel 71"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/71/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/71/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/71",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/72",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 72"], "nl": ["Tegel 72"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/72/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/72/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/72",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/73",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 73"], "nl": ["Tegel 73"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/73/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/73/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/73",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/74",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 74"], "nl": ["Tegel 74"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/74/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/74/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/74",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/75",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 75"], "nl": ["Tegel 75"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/75/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/75/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/75",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/76",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 76"], "nl": ["Tegel 76"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/76/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/76/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/76",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/77",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 77"], "nl": ["Tegel 77"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/77/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/77/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/77",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/78",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 78"], "nl": ["Tegel 78"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/78/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/78/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/78",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/79",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 79"], "nl": ["Tegel 79"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/79/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/79/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/79",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/80",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 80"], "nl": ["Tegel 80"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/80/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/80/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/80",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/81",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 81"], "nl": ["Tegel 81"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/81/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/81/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/81",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/82",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 82"], "nl": ["Tegel 82"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/82/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/82/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/82",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/83",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 83"], "nl": ["Tegel 83"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/83/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/83/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/83",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/84",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 84"], "nl": ["Tegel 84"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/84/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/84/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/84",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/85",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 85"], "nl": ["Tegel 85"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/85/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/85/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/85",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/86",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 86"], "nl": ["Tegel 86"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/86/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/86/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/86",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/87",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 87"], "nl": ["Tegel 87"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/87/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/87/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/87",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/88",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 88"], "nl": ["Tegel 88"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/88/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/88/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/88",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/89",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 89"], "nl": ["Tegel 89"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/89/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/89/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/89",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/90",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 90"], "nl": ["Tegel 90"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/90/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/90/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/90",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/91",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 91"], "nl": ["Tegel 91"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/91/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/91/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/91",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/92",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 92"], "nl": ["Tegel 92"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/92/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/92/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/92",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/93",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 93"], "nl": ["Tegel 93"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/93/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/93/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/93",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/94",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 94"], "nl": ["Tegel 94"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/94/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/94/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/94",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/95",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 95"], "nl": ["Tegel 95"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/95/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/95/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/95",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/96",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 96"], "nl": ["Tegel 96"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/96/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/96/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/96",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/97",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 97"], "nl": ["Tegel 97"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/97/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/97/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/97",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/98",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 98"], "nl": ["Tegel 98"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/98/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/98/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/98",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/99",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 99"], "nl": ["Tegel 99"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/99/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/99/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/99",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/100",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 100"], "nl": ["Tegel 100"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/100/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/100/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/100",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/101",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 101"], "nl": ["Tegel 101"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/101/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/101/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/101",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/102",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 102"], "nl": ["Tegel 102"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/102/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/102/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/102",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/103",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 103"], "nl": ["Tegel 103"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/103/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/103/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/103",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/104",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 104"], "nl": ["Tegel 104"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/104/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/104/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/104",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/105",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 105"], "nl": ["Tegel 105"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/105/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/105/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/105",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/106",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 106"], "nl": ["Tegel 106"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/106/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/106/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/106",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/107",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 107"], "nl": ["Tegel 107"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/107/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/107/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/107",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/108",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 108"], "nl": ["Tegel 108"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/108/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/108/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/108",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/109",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 109"], "nl": ["Tegel 109"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/109/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/109/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/109",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/110",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 110"], "nl": ["Tegel 110"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/110/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/110/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/110",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/111",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 111"], "nl": ["Tegel 111"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/111/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/111/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/111",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/112",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 112"], "nl": ["Tegel 112"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/112/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/112/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/112",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/113",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 113"], "nl": ["Tegel 113"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/113/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/113/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/113",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/114",
+      "type": "Canvas",
+      "height": 3159,
+      "width": 2968,
+      "label": { "en": ["Tile 114"], "nl": ["Tegel 114"] },
+      "items": [
+        {
+          "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/114/ap0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manuelclaeysbouuaert.be/claeissens/canvas/114/ap0/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://manuelclaeysbouuaert.be/claeissens/canvas/114",
+              "body": {
+                "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2968,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      { "scaleFactors": [1, 2], "width": 1024, "height": 1024 }
+                    ],
+                    "width": 3159,
+                    "height": 2968
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

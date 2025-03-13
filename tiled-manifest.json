@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest",
+  "id": "https://manuelclaeysbouuaert.be/claeissens/tiled-manifest.json",
   "type": "Manifest",
   "label": { "en": ["Map of the Liberty of Bruges"] },
   "items": [

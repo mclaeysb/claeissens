@@ -25,7 +25,7 @@ Links to view and annotate the `tiled-manifest.json`:
 
 ---
 
-The tiles of the `manifest.json` were made with [Sharp](https://sharp.pixelplumbing.com/) using [these scripts](https://github.com/sammeltassen/iiif-tiler) (and a `height` parameter was added to the `info.json` file manually). The IIIF Presentation Manifest was made using [this Notebook](https://observablehq.com/d/46eb57ecfeded102).
+The tiles of the `manifest.json` were made with [Sharp](https://sharp.pixelplumbing.com/) using [these scripts](https://github.com/sammeltassen/iiif-tiler) (a `height` parameter and an extra scalefactor needed to be added manually to the `info.json` files). The IIIF Presentation Manifest was made using [this Notebook](https://observablehq.com/d/46eb57ecfeded102).
 
 A custom 'starting' Georeference Annotation page was made with [this Notebook](https://observablehq.com/d/b7ae55c7ab37313b).
 

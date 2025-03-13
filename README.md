@@ -29,4 +29,4 @@ The tiles of the `manifest.json` were made with [Sharp](https://sharp.pixelplumb
 
 A custom 'starting' Georeference Annotation page was made with [this Notebook](https://observablehq.com/d/b7ae55c7ab37313b).
 
-The tiles of the `tiled-manifest.json` were made using an adapted version of `iiif-tiler`. The Manifest and Georeference annotation were made in the same notebook.
+The tiles of the `tiled-manifest.json` were made using an adapted version of `iiif-tiler`. The Manifest and 'starting' Georeference annotation were made in the same notebook.

@@ -6,10 +6,7 @@
   "protocol": "http://iiif.io/api/image",
   "tiles": [
     {
-      "scaleFactors": [
-        1,
-        2
-      ],
+      "scaleFactors": [1, 2, 4],
       "width": 1024,
       "height": 1024
     }

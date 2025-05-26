@@ -1,6 +1,6 @@
 # Claeissens-copy of the Map of the Liberty of Bruges
 
-This repository contains static level 0 [IIIF Image API](https://iiif.io/api/image/2.0/) images of the 1597 copy by Pieter Claeissens of the 1571 *Map of the Liberty of Bruges* (*Kaart van het Brugse Vrije*) by Pieter Pourbus. The map is available in the collection of [Musea Brugge](https://collectie.museabrugge.be/collection/work/id/0000_GRO0438_I), including a [IIIF Manifest](https://dam.museabrugge.be/iiif/3/18761/manifest.json) pointing to a Cantaloupe server managed by the museum and [meemoo](https://meemoo.be/). The images and manifest in this repository serve as a backup for a [Mapathon](https://mappingpourbus.ugent.be/) workshop organised on March 14th and 15th 2025.
+This repository contains static level 0 [IIIF Image API](https://iiif.io/api/image/2.0/) images of the 1597 copy by Pieter Claeissens of the 1571 *Map of the Liberty of Bruges* (*Kaart van het Brugse Vrije*) by Pieter Pourbus. The map is available in the collection of [Musea Brugge](https://collectie.museabrugge.be/collection/work/id/0000_GRO0438_I), including a [IIIF Manifest](https://dam.museabrugge.be/iiif/3/18761/manifest.json) pointing to a Cantaloupe server managed by the museum and [meemoo](https://meemoo.be/). The images and manifest in this repository serve as a backup for a [Mapathon](https://mappingpourbus.ugent.be/) workshop organised on March 14th and 15th 2025 (see the Mapathon [manual](https://pages.allmaps.org/workshops/2025-mapathon-claeissens.html)).
 
 The original digitalisation resulted in a picture of 158174 x 95614 pixels. This has been scaled down to a lower resolution of 52724 x 31871 to find a better balance between detail and manageability.
 
@@ -30,3 +30,9 @@ The tiles of the `manifest.json` were made with [Sharp](https://sharp.pixelplumb
 A custom 'starting' Georeference Annotation page was made with [this Notebook](https://observablehq.com/d/b7ae55c7ab37313b).
 
 The tiles of the `tiled-manifest.json` were made using an adapted version of `iiif-tiler`. The Manifest and 'starting' Georeference annotation were made in the same notebook.
+
+---
+
+The mapathon participants worked on the `tiled-manifest.json` and added more than 2000 gcps to it's tiles. The final result, with all gcps transferred to `manifest.json`, is stored in the `final-annotation-page.json`. Paste this annotation in [Allmaps Viewer](https://viewer.allmaps.org/) to see the result. 
+
+The official version of this annotation points not to `manifest.json` but to a resource of Musea Brugge, namely a a second image that was later added to the official [IIIF Manifest](https://dam.museabrugge.be/iiif/3/18676/manifest.json) of Musea Brugge: `https://dam.museabrugge.be/iiif/2/public%2F18761.tif`.
